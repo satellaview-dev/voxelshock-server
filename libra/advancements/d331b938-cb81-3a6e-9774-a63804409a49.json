@@ -1,0 +1,179 @@
+{
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2023-12-08 10:52:53 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_nether_find_bastion": {
+    "criteria": {
+      "bastion": "2023-12-08 10:52:53 -0700"
+    },
+    "done": true
+  },
+  "2mal3:adco/installed": {
+    "criteria": {
+      "trigger": "2023-12-08 10:52:53 -0700"
+    },
+    "done": true
+  },
+  "global:tayacrystals": {
+    "criteria": {
+      "trigger": "2023-12-08 10:52:53 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_end_find_end_city": {
+    "criteria": {
+      "in_city": "2023-12-08 10:52:53 -0700"
+    },
+    "done": true
+  },
+  "literagame:more_bossbars": {
+    "criteria": {
+      "tick": "2023-12-08 10:52:53 -0700"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2023-12-08 10:52:53 -0700"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2023-12-08 10:52:53 -0700"
+    },
+    "done": true
+  },
+  "manic:technical/initiate_1.0.3": {
+    "criteria": {
+      "tick": "2023-12-08 10:52:53 -0700"
+    },
+    "done": true
+  },
+  "byg:adventure/oh_the_biomes_youll_go": {
+    "criteria": {
+      "byg:amaranth_fields": "2023-12-08 10:52:53 -0700"
+    },
+    "done": false
+  },
+  "watching:main/root": {
+    "criteria": {
+      "requirement": "2023-12-16 17:35:15 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/normal_mode": {
+    "criteria": {
+      "game_state": "2023-12-08 10:52:53 -0700"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2023-12-08 10:52:53 -0700"
+    },
+    "done": true
+  },
+  "global:2mal3": {
+    "criteria": {
+      "trigger": "2023-12-08 10:52:53 -0700"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2023-12-08 10:52:53 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_story_follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2023-12-08 10:52:53 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/expert_mode": {
+    "criteria": {
+      "game_state": "2023-12-08 10:52:53 -0700"
+    },
+    "done": true
+  },
+  "mt:load": {
+    "criteria": {
+      "requirement": "2023-12-08 10:52:53 -0700"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/root": {
+    "criteria": {
+      "c1": "2023-12-08 10:52:53 -0700"
+    },
+    "done": true
+  },
+  "nucleus:initiate_0.1.4": {
+    "criteria": {
+      "impossible": "2023-12-08 10:52:53 -0700"
+    },
+    "done": true
+  },
+  "smithed.damage:v0.1.0/player/event": {
+    "criteria": {
+      "is_magic": "2023-12-08 10:54:04 -0700",
+      "bypass_armor": "2023-12-08 11:11:02 -0700",
+      "generic": "2023-12-08 10:54:04 -0700"
+    },
+    "done": false
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2023-12-08 10:52:53 -0700"
+    },
+    "done": true
+  },
+  "deactivateportals:pack": {
+    "criteria": {
+      "trigger": "2023-12-08 10:52:53 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_nether_find_fortress": {
+    "criteria": {
+      "fortress": "2023-12-08 10:52:53 -0700"
+    },
+    "done": true
+  },
+  "global:ps": {
+    "criteria": {
+      "trigger": "2024-01-03 11:22:40 -0700"
+    },
+    "done": true
+  },
+  "mcpeachpies:root": {
+    "criteria": {
+      "requirement": "2023-12-08 10:52:53 -0700"
+    },
+    "done": true
+  },
+  "global:ps/book_of_experience": {
+    "criteria": {
+      "trigger": "2024-01-03 11:22:40 -0700"
+    },
+    "done": true
+  },
+  "literagame:root": {
+    "criteria": {
+      "tick": "2023-12-08 10:52:53 -0700"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2023-12-08 10:54:04 -0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3218
+}
