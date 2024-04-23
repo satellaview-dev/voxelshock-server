@@ -14,7 +14,4 @@ config/spark/*
 
 libraries/*
 
-mods/*
-config/*
-bluemap/*
 bluemap/web/maps/*

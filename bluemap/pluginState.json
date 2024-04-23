@@ -1,0 +1,24 @@
+{
+  "render-threads-enabled": true,
+  "maps": {
+    "overworld": {
+      "update-enabled": true
+    },
+    "overworld_2": {
+      "update-enabled": true
+    },
+    "overworld_3": {
+      "update-enabled": true
+    },
+    "overworld_4": {
+      "update-enabled": true
+    },
+    "nether": {
+      "update-enabled": true
+    },
+    "end": {
+      "update-enabled": true
+    }
+  },
+  "hidden-players": []
+}
