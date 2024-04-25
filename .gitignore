@@ -13,5 +13,6 @@ sdlinkstorage/*
 config/spark/*
 
 libraries/*
-
+mods/*
 bluemap/web/maps/*
+bluemap/*
