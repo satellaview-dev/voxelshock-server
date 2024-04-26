@@ -13,6 +13,8 @@ sdlinkstorage/*
 config/spark/*
 
 libraries/*
-mods/*
+
+
+bluemap/web/maps/minecraft-client-1.19.0.jar
+bluemap/web/maps/tiles/*
 bluemap/web/maps/*
-bluemap/*
